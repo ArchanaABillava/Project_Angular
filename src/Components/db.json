@@ -1,0 +1,38 @@
+{
+    "investment":
+    [
+        {
+            "id":"1",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/12/mt-0239-home-partner13.jpg"
+           
+        },
+        
+        {
+            "id":"2",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-partner4.jpg"
+        },
+    
+        {
+            "id":"3",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-partner5.jpg"
+           
+        },
+        {
+            "id":"4",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-partner6.jpg"
+           
+        },
+        {
+            "id":"5",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/12/mt-0239-home-partner11.jpg"
+            
+        },
+        {
+            "id":"6",
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-partner2.jpg"
+            
+        }
+    ]
+    
+    
+}
